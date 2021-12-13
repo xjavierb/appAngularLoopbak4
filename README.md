@@ -29,3 +29,23 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 <p>Notas</p>
 primera creacion de un proyecto en angular para unirlo con LB4
+
+## creación de componentes
+ng generate component register
+
+ng generate component login
+
+ng generate component home
+
+ng generate component menu
+
+
+## creacion interface
+ng generate interface Rol
+ng generate interface model/Rol
+
+
+## creacion de clase
+ng generate class User
+ng generate class model/User
+
